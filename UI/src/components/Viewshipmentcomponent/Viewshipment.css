@@ -1,0 +1,13 @@
+#category_main
+{
+ height:450px;    
+ width:600px;
+}
+
+.category_part
+{
+ height:150px;    
+ width:200px;
+ float: left;
+}
+

@@ -1,0 +1,25 @@
+#content{
+    height: 60%;
+    
+    
+}
+#content_part1{
+    float: left;
+    width: 50%;
+    height: 100%;
+    margin-left: 10px;
+}
+#content_part2{
+    width: 45%;
+    height: 100%;
+    float: right;
+}
+
+#content_part2 img{
+    height: 70%;
+    width: 60%;
+}
+#content_part2 img:hover{
+    height: 80%;
+    width: 70%;
+}
